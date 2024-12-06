@@ -4,7 +4,7 @@ import base64
 
 
 TOKEN = "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"
-REPO = "virtualt003/BGMI"
+REPO = "virtualt003/Bgmi"
 FILE_PATH = ".travis.yml"
 BRANCH = "main"
 
